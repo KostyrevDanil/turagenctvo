@@ -1,0 +1,30 @@
+body {background-color: yellowgreen;
+}
+#header {
+    position: relative;
+    background-image: url("kpto4.jpg");
+    border: 0px;
+    width: 100%;
+    height: 600px;
+    margin-bottom:0px;
+    font-size: 100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color:wheat;
+}
+#content {
+    background-color: rgb(30, 206, 168);
+    position: relative;
+    display: inline-block;
+    padding: 30px;
+    width: 100%;
+    height: 600px;
+    text-align: center;
+    color: wheat;
+    font-size: 25px;
+    border: 6px solid rgb(186, 9, 221);
+        border-radius: 30px;
+        margin-top: 50px;
+}
+
+
